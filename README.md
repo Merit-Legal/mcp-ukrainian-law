@@ -6,7 +6,7 @@ Supreme Court practice, court hearings, the company register, professional regis
 proceedings, debtors and five sanctions lists.
 
 - **Endpoint:** `https://law.merit.legal/mcp` (Streamable HTTP)
-- **Registry name:** `legal.merit/law`
+- **Registry name:** [`legal.merit/law`](https://registry.modelcontextprotocol.io/v0/servers?search=legal.merit/law)
 - **Authentication:** OAuth 2.1 — the client opens the Merit sign-in page, you sign in with your email
 - **Website, pricing and help:** <https://merit.legal/en/mcp>
 
